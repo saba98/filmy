@@ -1,0 +1,47 @@
+﻿.ramka{
+border: 3px solid yellow;
+width:255px ;
+height:1290px;
+}
+
+a{
+	color:white;
+	
+}
+
+
+a {
+    text-decoration: none; 
+   
+}
+
+
+a:hover { 
+    text-decoration: underline; 
+    color: yellow;
+    text-decoration: none;  
+}
+
+
+
+
+
+
+.y{
+	
+	padding: 9px; 
+	margin: 5px;
+	transform: scale(0.9);
+
+}
+
+
+.y:hover{
+	background-color:#FF4500;
+ 	padding: 10px; 
+	margin: 6px;
+	transition: all 0.8s;
+	transform: scale(1.2);
+}
+
+
